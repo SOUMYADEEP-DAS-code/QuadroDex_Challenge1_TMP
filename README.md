@@ -36,6 +36,6 @@ README.md (This file)
 
 retail_data.csv (The raw dataset used for the challenge)
 
-analysis.ipynb (The main Jupyter Notebook with all our code and analysis)
+Untitled0 (3).ipynb (The main Jupyter Notebook with all our code and analysis)
 
 presentation.pptx (A summary of our findings and recommendations)
